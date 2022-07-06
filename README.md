@@ -1,7 +1,7 @@
 # Title 
 Chat bot educatif 
 
-# Description:
+# Description
 
  Le projet est un agent conversationnel qui crée des conversations avec les apprenants
 
